@@ -1,11 +1,15 @@
-# nenye
 
-![image](https://github.com/user-attachments/assets/9d491285-72f3-43ea-bb7f-8ced7f666010)
+
+https://www.freepik.com/free-vector/business-analysis-symbol-with-magnifying-glass-icon-pie-chart-abstract-low-poly-wireframe-mesh-design-business-strategy-concept-vector-illustration_24058339.htm#fromView=image_search_similar&page=1&position=12&uuid=c6b575a6-cef1-4cb6-ad7c-494dc367f0a0&query=Data+Analytics+images
 
 <h1 align="center">Hi 👋, I'm chinenye</h1>
 <h3 align="center">A passionate data Analyst</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifeduba" alt="ifeduba" /></a> </p>
+
+I’m a passionate data analyst with a strong interest in uncovering insights through data storytelling, visualization, and statistical analysis. I work with tools like Python, SQL, Power BI, and Excel to transform raw data into meaningful business intelligence.
+
+I enjoy solving real-world problems with data and continually learning new techniques in analytics and machine learning. My projects focus on healthcare, business performance, and consumer behavior.
 
 - 🔭 I’m currently working on **Sales dashboard**
 
