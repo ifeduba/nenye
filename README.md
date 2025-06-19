@@ -1,6 +1,6 @@
 
+![Uploading 24058339_des_1_19.jpg…]()
 
-https://www.freepik.com/free-vector/business-analysis-symbol-with-magnifying-glass-icon-pie-chart-abstract-low-poly-wireframe-mesh-design-business-strategy-concept-vector-illustration_24058339.htm#fromView=image_search_similar&page=1&position=12&uuid=c6b575a6-cef1-4cb6-ad7c-494dc367f0a0&query=Data+Analytics+images
 
 <h1 align="center">Hi 👋, I'm chinenye</h1>
 <h3 align="center">A passionate data Analyst</h3>
